@@ -33,6 +33,7 @@ Hi UdoTaisei! You've successfully authenticated, but GitHub does not provide she
 ## 03. ローカルリポジトリとGitHubリポジトリの連携
 PS C:\Users\Owner\Desktop\web-knock-0> git remote -v
 origin  git@github.com:UdoTaisei/web-knock-0.git (fetch)
-
 origin  git@github.com:UdoTaisei/web-knock-0.git (push)
 
+## 04. ファイルの変更とpush/pull
+edit local
