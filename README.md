@@ -37,3 +37,4 @@ origin  git@github.com:UdoTaisei/web-knock-0.git (push)
 
 ## 04. ファイルの変更とpush/pull
 edit local
+edit github
