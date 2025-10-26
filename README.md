@@ -38,3 +38,19 @@ origin  git@github.com:UdoTaisei/web-knock-0.git (push)
 ## 04. ファイルの変更とpush/pull
 edit local
 edit github
+
+### 確認
+ git log
+commit ab1e64d1950d9c42ea25cf1812432c9234698a65 (HEAD -> master, origin/master)
+Author: UdoTaisei <147651562+UdoTaisei@users.noreply.github.com>
+Date:   Sun Oct 26 17:00:50 2025 +0900
+
+    Github edit
+
+commit 045f16cd22a065277c9c7cdc7f4682c6e4adafb1
+Author: Udo Taisei <taiqingyoudong@gmail.com>
+Date:   Sun Oct 26 16:58:27 2025 +0900
+
+    rocal edit
+
+![SSHkey](images/hub04.png)
