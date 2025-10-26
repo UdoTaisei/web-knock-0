@@ -1,4 +1,6 @@
 # 09. チーム開発体験：他の学生のリポジトリにコントリビュート
+fork元URL：　https://github.com/UdoTaisei/web-knock-0 <br>
+fork先URL：　https://github.com/taiqingyoudong/web-knock-0
 
 ## fork元　修正前の文書
 ![henkoumae](images/henkoumae.png)
