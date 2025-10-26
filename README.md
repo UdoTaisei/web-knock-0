@@ -77,3 +77,12 @@ Switched to branch 'develop'
 PS C:\Users\Owner\Desktop\web-knock-0> git branch
 \* develop
   master
+
+## 07. Pull Request（PR）の作成
+![PR01](images/PR01.png)
+![PR02](images/PR02.png)
+## 08. 過去のコミット履歴の確認と差分の確認
+### ログの確認
+![log](images/gitlog.png)
+### 差分の確認
+![diff](images/gitdiff.png)
