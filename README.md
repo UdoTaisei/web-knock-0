@@ -36,7 +36,7 @@ origin  git@github.com:UdoTaisei/web-knock-0.git (push)
 ## 04. ファイルの変更とpush/pull
 edit local
 edit github
-### 確認
+### ローカルの確認
  git log
 commit ab1e64d1950d9c42ea25cf1812432c9234698a65 (HEAD -> master, origin/master)
 Author: UdoTaisei <147651562+UdoTaisei@users.noreply.github.com>
@@ -49,6 +49,7 @@ Author: Udo Taisei <taiqingyoudong@gmail.com>
 Date:   Sun Oct 26 16:58:27 2025 +0900
 
     rocal edit
+### リモートの確認
 ![SSHkey](images/hub04.png)
 
 ## 05. .gitignoreファイルの作成
@@ -63,3 +64,16 @@ nothing to commit, working tree clean
 
 ## 06. ブランチの作成と切り替え
 developブランチでの変更
+
+PS C:\Users\Owner\Desktop\web-knock-0> git branch
+\* master
+PS C:\Users\Owner\Desktop\web-knock-0> git branch develop
+PS C:\Users\Owner\Desktop\web-knock-0> git branch
+  develop
+\* master
+PS C:\Users\Owner\Desktop\web-knock-0> git switch develop
+M       README.md
+Switched to branch 'develop'
+PS C:\Users\Owner\Desktop\web-knock-0> git branch
+\* develop
+  master
